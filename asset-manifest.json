@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/runbuild/static/css/main.073c9b0a.css",
+    "main.js": "/runbuild/static/js/main.f12069f9.js",
+    "static/js/787.c76b267f.chunk.js": "/runbuild/static/js/787.c76b267f.chunk.js",
+    "static/media/logo.svg": "/runbuild/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/runbuild/index.html",
+    "main.073c9b0a.css.map": "/runbuild/static/css/main.073c9b0a.css.map",
+    "main.f12069f9.js.map": "/runbuild/static/js/main.f12069f9.js.map",
+    "787.c76b267f.chunk.js.map": "/runbuild/static/js/787.c76b267f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f12069f9.js"
+  ]
+}
